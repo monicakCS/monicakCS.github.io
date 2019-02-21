@@ -1,3 +1,10 @@
+@font-face {
+    font-family: 'Nunito';
+    url('Nunito-Regular.ttf')  format('truetype');
+}
+
+
+
 body {
     background-color:black;   
     font-family: "Nunito", sans-serif;
