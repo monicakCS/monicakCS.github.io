@@ -1,0 +1,122 @@
+html {
+    background-color: black;
+
+}.row {
+    margin-left: 15%;
+    padding: 1px;
+    justify-content: center;
+    text-align: center
+}  
+ #contacts{
+    margin-top: 10em;
+} 
+
+#links{
+    margin-top: 5%;
+}
+
+
+#contactme {
+    font-size: 2rem;
+    margin: 1px;
+
+}
+
+a:visited 
+{
+    text-decoration: none; 
+    decoration: none; 
+}
+
+
+#linking p {
+    color:rgb(234, 183, 28);
+
+}
+
+#linking  a{
+    color:rgb(234, 183, 28);
+
+
+}
+
+i:visited {
+    text-decoration: none; 
+    decoration: none; 
+}
+
+
+ .fa-stack[data-count]:after{
+    display: inline-block;
+    position: absolute;
+    left:50%;
+    top:20%;
+    content: attr(data-count);
+    font-size:20%;
+    padding:0.2rem;
+    border-radius:9px;
+    line-height:1em;
+    color:white;
+    background:red;
+    text-align:center;
+    width:10em;
+    font-weight:bold;
+    font-family: "Nunito", sans-serif;
+    display: block;
+  } 
+
+   
+  
+   #mainNavbar {
+       padding: .8rem;
+       font-size: 1.5em;
+       font-weight: 150; 
+       font-family: "Nunito", sans-serif;
+   }
+   
+   #mainNavbar .nav-link {
+       color: white;
+   }
+
+
+   #mainNavbar .nav-link:hover {
+       color: rgb(234, 183, 28);
+   }
+   
+   #mainNavbar .navbar-brand {
+       color: rgb(234, 183, 28);
+       font-size: 2rem;
+       padding-bottom: 0%;
+       margin-top: 0%;
+   }
+   
+   #headingGroup span {
+       color: rgb(234, 183, 28);
+   }
+   
+   #headingGroup h1 {
+       font-weight: 100;
+       font-size: 4.5rem;
+   }
+   
+   .navbar.scrolled {
+       background: grey;
+       transition: background 500ms;
+   }
+   
+   
+   @media (max-width: 1200px){
+       #headingGroup h1 {
+           font-weight: 100;
+           font-size:3em;
+       }
+       
+   }
+   
+#bg {
+    background-color: black;
+}
+#contactme {
+    color: white;
+    font-family: "Nunito", sans-serif;
+}
