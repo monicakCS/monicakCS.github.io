@@ -3,10 +3,6 @@ html {
 
 }
 
-@font-face {
-    font-family: 'SComp';
-    url('Nunito-Regular.ttf')  format('truetype');
-}
 
 .row {
     margin-left: 15%;
@@ -78,7 +74,7 @@ i:visited {
        padding: .8rem;
        font-size: 1.5em;
        font-weight: 150; 
-       font-family: "SComp", sans-serif;
+       font-family: "Nunito", sans-serif;
    }
    
    #mainNavbar .nav-link {
@@ -125,5 +121,5 @@ i:visited {
 }
 #contactme {
     color: white;
-    font-family: "SComp", sans-serif;
+    font-family: "Nunito", sans-serif;
 }

@@ -1,13 +1,9 @@
-@font-face {
-    font-family: 'SComp';
-    url('Nunito-Regular.ttf')  format('truetype');
-}
 
 
 
 body {
     background-color:black;   
-    font-family: "Scomp", sans-serif;
+    font-family: "Nunito", sans-serif;
 
    }
    
