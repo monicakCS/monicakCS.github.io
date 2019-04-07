@@ -1,6 +1,4 @@
 
-
-
 body {
     background-color:black;   
     font-family: "Nunito", sans-serif;
@@ -44,7 +42,7 @@ body {
    }
    
    .navbar.scrolled {
-       background: grey;
+       background: white;
        transition: background 500ms;
    }
    
@@ -81,8 +79,4 @@ h1 span {
 #container {
     padding: 20%;
     justify-content: center;
-}
-
-.fas fa-chevron-circle-down {
-    color: white;
 }

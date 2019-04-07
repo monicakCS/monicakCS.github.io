@@ -103,7 +103,7 @@ i:visited {
    }
    
    .navbar.scrolled {
-       background: grey;
+       background: white;
        transition: background 500ms;
    }
    
